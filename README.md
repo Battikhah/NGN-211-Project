@@ -43,6 +43,3 @@ This project analyzes customer data from the `CLV_Dataset_Sec2_Group2_Oregon_A.x
 - CLV by Gender (Boxplot)
 - Scatter Plot of Monthly Premium vs. CLV
 
-## Contact
-
-For questions or feedback, please contact [Khalid Hamdan](mailto:khalidhamdan@example.com).
