@@ -1,4 +1,4 @@
-# NGN211 Project Spring2025
+# NGN211 Project Spring 2025
 
 This project analyzes customer data from the `CLV_Dataset_Sec2_Group2_Oregon_A.xlsx` (https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data) file using MATLAB. It includes descriptive statistics, probability distributions, hypothesis testing, and regression analysis to derive insights about customer lifetime value (CLV), income, and claims.
 
